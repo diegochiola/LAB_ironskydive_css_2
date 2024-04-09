@@ -77,3 +77,22 @@ h5 {
 .quote {
   font-size: 2.5em;
 }
+
+.dark-background {
+  background-color: var(--darkBlue);
+  color: white;
+}
+.text {
+  font-size: 2em;
+  font-weight: 100;
+  text-align: center;
+}
+.link-btn {
+  background-color: var(--blue);
+  color: white;
+  font-family: Roboto Condensed;
+  font-size: 2em;
+  letter-spacing: 0.5px;
+  text-align: center;
+  text-decoration: none;
+}
