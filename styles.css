@@ -67,7 +67,7 @@ h5 {
   background-position: 0 0;
   background-size: cover;
   background-repeat: no-repeat;
-  height: 650px;
+  height: 850px;
 }
 .header h2 {
   color: white;
@@ -116,4 +116,20 @@ h5 {
 #team img{
   width: 250px;
   height: 180px;
+}
+
+.footer{
+  font-size: 1.9em;
+  text-align: center;
+}
+.address{
+  font-style: normal;
+  font-size: 0.8em;
+}
+.footer a{
+  color: var(--blue);
+  text-decoration: none;
+}
+.footer ul{
+  list-style: none;
 }
